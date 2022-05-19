@@ -37,8 +37,15 @@ seed = input()
 iteracion = 0
 PBlockAnt = 0
 
-if os.path.exists('gnuplot/sim.plot'):
-    os.remove("gnuplot/sim.plot")
+if os.path.exists('gnuplot/trafico_simple.plot'):
+    os.remove("gnuplot/trafico_simple.plot")
+
+if os.path.exists('gnuplot/trafico_doble.plot'):
+    os.remove("gnuplot/trafico_doble.plot")
+
+if os.path.exists('gnuplot/trafico_total.plot'):
+    os.remove("gnuplot/trafico_total.plot")
+
 
 for i in range(int(min_i),int(max_i)+1):
 
@@ -174,7 +181,15 @@ for i in range(int(min_i),int(max_i)+1):
 
         ######### Escribimos el fichero ###########
 
+    with open('gnuplot/trafico_simple.plot', 'a') as fw:
+        fw.write(""+str(A)+" "+str(Acmed_trafico_a)+" "+str(Acmin_trafico_a)+" "+str(Acmax_trafico_a)+"\n")
+
+    with open('gnuplot/trafico_doble.plot', 'a') as fw:
+        fw.write(""+str(A)+" "+str((Acmed_trafico_b*2))+" "+str((Acmin_trafico_b*2))+" "+str((Acmax_trafico_b*2))+"\n")
+
+    with open('gnuplot/trafico_total.plot', 'a') as fw:
         fw.write(""+str(AT)+" "+str(Ac)+" "+str(Acmin)+" "+str(Acmax)+"\n")
+
 
     array = []
     array.append(prob_block_a)

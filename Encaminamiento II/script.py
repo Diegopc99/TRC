@@ -37,8 +37,15 @@ seed = input()
 iteracion = 0
 PBlockAnt = 0
 
-if os.path.exists('gnuplot/sim.plot'):
-    os.remove("gnuplot/sim.plot")
+if os.path.exists('gnuplot/trafico_simple.plot'):
+    os.remove("gnuplot/trafico_simple.plot")
+
+if os.path.exists('gnuplot/trafico_doble.plot'):
+    os.remove("gnuplot/trafico_doble.plot")
+
+if os.path.exists('gnuplot/trafico_total.plot'):
+    os.remove("gnuplot/trafico_total.plot")
+
 
 for i in range(int(min_i),int(max_i)+1):
 
@@ -106,67 +113,75 @@ for i in range(int(min_i),int(max_i)+1):
     #### Guardamos los valores en el fichero plot ####
     ##################################################
 
-    with open('gnuplot/sim.plot', 'a') as fw:
+    #with open('gnuplot/sim.plot', 'a') as fw:
 
-        fr = open('config_out/config'+str(i)+'.cfg.out', 'r')
-        lines = fr.readlines()
-        fr.close()
-        count = 0
-        for line in lines:
-            if count == 4:
-                res = line.split(" ")
-                prob_block_a = res[4][:-1]
-                print("probabilidad de bloqueo a: "+prob_block_a+"\n")
-            if count == 5:
-                first_interval_a = line.split("(")[1].split(",")[0]
-                second_interval_a = line.split("(")[1].split(",")[1].split(")")[0]
-                print("first interval_a: "+first_interval_a+"\n")
-                print("second_interval_a: "+second_interval_a+"\n")
-            if count == 14:
-                res = line.split(" ")
-                prob_block_b = res[4][:-1]
-                print("probabilidad de bloqueo b: "+prob_block_b+"\n")
-            if count == 15:
-                first_interval_b = line.split("(")[1].split(",")[0]
-                second_interval_b = line.split("(")[1].split(",")[1].split(")")[0]
-                print("first interval_b: "+first_interval_b+"\n")
-                print("second_interval_b: "+second_interval_b+"\n")
-            count+=1
+    fr = open('config_out/config'+str(i)+'.cfg.out', 'r')
+    lines = fr.readlines()
+    fr.close()
+    count = 0
+    for line in lines:
+        if count == 4:
+            res = line.split(" ")
+            prob_block_a = res[4][:-1]
+            print("probabilidad de bloqueo a: "+prob_block_a+"\n")
+        if count == 5:
+            first_interval_a = line.split("(")[1].split(",")[0]
+            second_interval_a = line.split("(")[1].split(",")[1].split(")")[0]
+            print("first interval_a: "+first_interval_a+"\n")
+            print("second_interval_a: "+second_interval_a+"\n")
+        if count == 14:
+            res = line.split(" ")
+            prob_block_b = res[4][:-1]
+            print("probabilidad de bloqueo b: "+prob_block_b+"\n")
+        if count == 15:
+            first_interval_b = line.split("(")[1].split(",")[0]
+            second_interval_b = line.split("(")[1].split(",")[1].split(")")[0]
+            print("first interval_b: "+first_interval_b+"\n")
+            print("second_interval_b: "+second_interval_b+"\n")
+        count+=1
 
-        A = (float(landa_simple)*int(S))
-        AT = A + (A/2) + (A/2)
+    A = (float(landa_simple)*int(S))
+    AT = A + (A/2) + (A/2)
 
-        ###################################################
-        ############### Valor de B minimo #################
-        ###################################################
+    ###################################################
+    ############### Valor de B minimo #################
+    ###################################################
 
-        Acmin_trafico_a = A*(1-float(second_interval_a))
-        Acmin_trafico_b = (A/2)*(1-float(second_interval_b))
-        
-        Acmin = Acmin_trafico_a + (2*Acmin_trafico_b) 
+    Acmin_trafico_a = A*(1-float(second_interval_a))
+    Acmin_trafico_b = (A/2)*(1-float(second_interval_b))
+    
+    Acmin = Acmin_trafico_a + (2*Acmin_trafico_b) 
 
-        ###################################################
-        ############### Valor de B maximo #################
-        ###################################################
+    ###################################################
+    ############### Valor de B maximo #################
+    ###################################################
 
-        Acmax_trafico_a = A*(1-float(first_interval_a))
-        Acmax_trafico_b = (A/2)*(1-float(first_interval_b))
+    Acmax_trafico_a = A*(1-float(first_interval_a))
+    Acmax_trafico_b = (A/2)*(1-float(first_interval_b))
 
-        Acmax = Acmax_trafico_a + (2*Acmax_trafico_b) 
+    Acmax = Acmax_trafico_a + (2*Acmax_trafico_b) 
 
-        ###################################################
-        ############### Valor de B medio ##################
-        ###################################################
+    ###################################################
+    ############### Valor de B medio ##################
+    ###################################################
 
-        Acmed_trafico_a = A*(1-float(prob_block_a))
-        Acmed_trafico_b = (A/2)*(1-float(prob_block_b))
+    Acmed_trafico_a = A*(1-float(prob_block_a))
+    Acmed_trafico_b = (A/2)*(1-float(prob_block_b))
 
-        Ac = Acmed_trafico_a + (2*Acmed_trafico_b) 
-        
+    Ac = Acmed_trafico_a + (2*Acmed_trafico_b) 
+    
 
-        ######### Escribimos el fichero ###########
+    ######### Escribimos el fichero ###########
 
+    with open('gnuplot/trafico_simple.plot', 'a') as fw:
+        fw.write(""+str(A)+" "+str(Acmed_trafico_a)+" "+str(Acmin_trafico_a)+" "+str(Acmax_trafico_a)+"\n")
+
+    with open('gnuplot/trafico_doble.plot', 'a') as fw:
+        fw.write(""+str(A)+" "+str((Acmed_trafico_b*2))+" "+str((Acmin_trafico_b*2))+" "+str((Acmax_trafico_b*2))+"\n")
+
+    with open('gnuplot/trafico_total.plot', 'a') as fw:
         fw.write(""+str(AT)+" "+str(Ac)+" "+str(Acmin)+" "+str(Acmax)+"\n")
+
 
     array = []
     array.append(prob_block_a)
