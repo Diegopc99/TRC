@@ -1,2 +1,2 @@
 # TRC
-Proyecto de gestion de traficos entre satelites
+Proyectos para la gestion de trafico entre satelites de los cursos 21-22 y 22-23.
