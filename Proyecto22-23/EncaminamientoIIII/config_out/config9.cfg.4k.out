@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.011129
+	Confidence interval 1: (0.0102933,0.0119647) with coverage: 0.95
+	Confidence interval 2: (0.00915126,0.0131067) with coverage: 0.999994
+	Number of samples: 163986
+	Variance: 0.0110052
+	Standard deviation: 0.104906
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 8.86449e-05
+	Confidence interval 1: (4.5827e-05,0.000131463) with coverage: 0.95
+	Confidence interval 2: (-0.00191118,0.00208847) with coverage: 0.999998
+	Number of samples: 327148
+	Variance: 8.86373e-05
+	Standard deviation: 0.00941474
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.000225442
+	Confidence interval 1: (0.000132885,0.000317999) with coverage: 0.95
+	Confidence interval 2: (-0.00177411,0.00222499) with coverage: 0.999998
+	Number of samples: 164122
+	Variance: 0.000225393
+	Standard deviation: 0.0150131
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.00163281
+	Confidence interval 1: (0.00126428,0.00200135) with coverage: 0.95
+	Confidence interval 2: (-0.000363922,0.00362955) with coverage: 0.999998
+	Number of samples: 164134
+	Variance: 0.00163016
+	Standard deviation: 0.0403752
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.0215576
+	Confidence interval 1: (0.0196523,0.023463) with coverage: 0.95
+	Confidence interval 2: (0.0196007,0.0235145) with coverage: 0.95536
+	Number of samples: 81920
+	Variance: 0.0210931
+	Standard deviation: 0.145235
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 7.94233e-05
+	Confidence interval 1: (2.1543e-05,0.000137304) with coverage: 0.95
+	Confidence interval 2: (-0.00192042,0.00207926) with coverage: 0.999998
+	Number of samples: 163680
+	Variance: 7.94174e-05
+	Standard deviation: 0.00891165
+	Maximum sample: 1
+	Minimum sample: 0
+

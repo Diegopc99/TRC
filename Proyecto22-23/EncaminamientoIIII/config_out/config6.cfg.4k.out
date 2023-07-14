@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.0514855
+	Confidence interval 1: (0.0506154,0.0523556) with coverage: 0.95
+	Confidence interval 2: (0.0495885,0.0533825) with coverage: 0.999936
+	Number of samples: 644395
+	Variance: 0.0488348
+	Standard deviation: 0.220986
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0025471
+	Confidence interval 1: (0.00235215,0.00274205) with coverage: 0.95
+	Confidence interval 2: (0.000552198,0.00454201) with coverage: 0.999998
+	Number of samples: 1288915
+	Variance: 0.00254062
+	Standard deviation: 0.0504045
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.00492905
+	Confidence interval 1: (0.00454956,0.00530853) with coverage: 0.95
+	Confidence interval 2: (0.0029389,0.00691919) with coverage: 0.999998
+	Number of samples: 644141
+	Variance: 0.00490476
+	Standard deviation: 0.070034
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.021159
+	Confidence interval 1: (0.0204817,0.0218363) with coverage: 0.95
+	Confidence interval 2: (0.0192013,0.0231167) with coverage: 0.999998
+	Number of samples: 644029
+	Variance: 0.0207113
+	Standard deviation: 0.143914
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.0988269
+	Confidence interval 1: (0.0971842,0.10047) with coverage: 0.95
+	Confidence interval 2: (0.0970246,0.100629) with coverage: 0.96757
+	Number of samples: 322321
+	Variance: 0.0890605
+	Standard deviation: 0.29843
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.00565017
+	Confidence interval 1: (0.00533032,0.00597002) with coverage: 0.95
+	Confidence interval 2: (0.00366147,0.00763887) with coverage: 0.999998
+	Number of samples: 644759
+	Variance: 0.00561826
+	Standard deviation: 0.074955
+	Maximum sample: 1
+	Minimum sample: 0
+

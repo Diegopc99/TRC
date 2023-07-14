@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.211372
+	Confidence interval 1: (0.210562,0.212181) with coverage: 0.95
+	Confidence interval 2: (0.209794,0.212949) with coverage: 0.99986
+	Number of samples: 2180562
+	Variance: 0.166694
+	Standard deviation: 0.408281
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0790965
+	Confidence interval 1: (0.0786468,0.0795462) with coverage: 0.95
+	Confidence interval 2: (0.0772547,0.0809383) with coverage: 0.999998
+	Number of samples: 4363531
+	Variance: 0.0728403
+	Standard deviation: 0.269889
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.150424
+	Confidence interval 1: (0.149639,0.151209) with coverage: 0.95
+	Confidence interval 2: (0.148725,0.152123) with coverage: 0.999932
+	Number of samples: 2181888
+	Variance: 0.127797
+	Standard deviation: 0.357486
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.239669
+	Confidence interval 1: (0.238809,0.24053) with coverage: 0.95
+	Confidence interval 2: (0.238149,0.24119) with coverage: 0.999245
+	Number of samples: 2183363
+	Variance: 0.182228
+	Standard deviation: 0.426882
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.375327
+	Confidence interval 1: (0.374104,0.376551) with coverage: 0.95
+	Confidence interval 2: (0.374078,0.376577) with coverage: 0.954288
+	Number of samples: 1090725
+	Variance: 0.234457
+	Standard deviation: 0.484208
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.204381
+	Confidence interval 1: (0.203288,0.205473) with coverage: 0.95
+	Confidence interval 2: (0.202789,0.205972) with coverage: 0.996512
+	Number of samples: 2178474
+	Variance: 0.162609
+	Standard deviation: 0.403248
+	Maximum sample: 1
+	Minimum sample: 0
+

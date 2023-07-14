@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.192631
+	Confidence interval 1: (0.19181,0.193452) with coverage: 0.95
+	Confidence interval 2: (0.191016,0.194245) with coverage: 0.999891
+	Number of samples: 2269389
+	Variance: 0.155524
+	Standard deviation: 0.394366
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.06196
+	Confidence interval 1: (0.0615181,0.0624018) with coverage: 0.95
+	Confidence interval 2: (0.0600839,0.063836) with coverage: 0.999998
+	Number of samples: 4538060
+	Variance: 0.0581209
+	Standard deviation: 0.241083
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.118596
+	Confidence interval 1: (0.117821,0.119371) with coverage: 0.95
+	Confidence interval 2: (0.116833,0.120359) with coverage: 0.999976
+	Number of samples: 2269829
+	Variance: 0.104531
+	Standard deviation: 0.323313
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.0704664
+	Confidence interval 1: (0.0698784,0.0710544) with coverage: 0.95
+	Confidence interval 2: (0.0686073,0.0723254) with coverage: 0.999998
+	Number of samples: 2270019
+	Variance: 0.0655009
+	Standard deviation: 0.255931
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.347206
+	Confidence interval 1: (0.345971,0.348441) with coverage: 0.95
+	Confidence interval 2: (0.3459,0.348512) with coverage: 0.961042
+	Number of samples: 1135476
+	Variance: 0.226654
+	Standard deviation: 0.476082
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0521573
+	Confidence interval 1: (0.0517176,0.0525971) with coverage: 0.95
+	Confidence interval 2: (0.0502617,0.054053) with coverage: 0.999998
+	Number of samples: 2267792
+	Variance: 0.049437
+	Standard deviation: 0.222344
+	Maximum sample: 1
+	Minimum sample: 0
+

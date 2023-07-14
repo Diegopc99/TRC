@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.127037
+	Confidence interval 1: (0.12612,0.127954) with coverage: 0.95
+	Confidence interval 2: (0.125291,0.128783) with coverage: 0.999771
+	Number of samples: 2019797
+	Variance: 0.110899
+	Standard deviation: 0.333015
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0235055
+	Confidence interval 1: (0.0232831,0.0237278) with coverage: 0.95
+	Confidence interval 2: (0.0215525,0.0254584) with coverage: 0.999998
+	Number of samples: 4040891
+	Variance: 0.022953
+	Standard deviation: 0.151502
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.0462388
+	Confidence interval 1: (0.045774,0.0467036) with coverage: 0.95
+	Confidence interval 2: (0.0443313,0.0481463) with coverage: 0.999998
+	Number of samples: 2020230
+	Variance: 0.0441008
+	Standard deviation: 0.210002
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.101592
+	Confidence interval 1: (0.100741,0.102443) with coverage: 0.95
+	Confidence interval 2: (0.0997952,0.103389) with coverage: 0.999898
+	Number of samples: 2018898
+	Variance: 0.0912712
+	Standard deviation: 0.302111
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.236071
+	Confidence interval 1: (0.234652,0.237491) with coverage: 0.95
+	Confidence interval 2: (0.234544,0.237599) with coverage: 0.96417
+	Number of samples: 1011770
+	Variance: 0.180342
+	Standard deviation: 0.424667
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0637115
+	Confidence interval 1: (0.063011,0.064412) with coverage: 0.95
+	Confidence interval 2: (0.0618389,0.065584) with coverage: 0.999998
+	Number of samples: 2016717
+	Variance: 0.0596523
+	Standard deviation: 0.244238
+	Maximum sample: 1
+	Minimum sample: 0
+

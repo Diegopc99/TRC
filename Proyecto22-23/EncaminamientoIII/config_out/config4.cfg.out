@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.0967397
+	Confidence interval 1: (0.0959383,0.0975411) with coverage: 0.95
+	Confidence interval 2: (0.0949332,0.0985463) with coverage: 0.99997
+	Number of samples: 1395590
+	Variance: 0.0873812
+	Standard deviation: 0.295603
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0126239
+	Confidence interval 1: (0.0123919,0.0128559) with coverage: 0.95
+	Confidence interval 2: (0.0106492,0.0145987) with coverage: 0.999998
+	Number of samples: 2795332
+	Variance: 0.0124645
+	Standard deviation: 0.111645
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.025192
+	Confidence interval 1: (0.0246305,0.0257534) with coverage: 0.95
+	Confidence interval 2: (0.0232424,0.0271416) with coverage: 0.999998
+	Number of samples: 1398541
+	Variance: 0.0245574
+	Standard deviation: 0.156708
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.015963
+	Confidence interval 1: (0.0156441,0.0162819) with coverage: 0.95
+	Confidence interval 2: (0.0139949,0.0179311) with coverage: 0.999998
+	Number of samples: 1395916
+	Variance: 0.0157082
+	Standard deviation: 0.125332
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.18235
+	Confidence interval 1: (0.180779,0.18392) with coverage: 0.95
+	Confidence interval 2: (0.180714,0.183985) with coverage: 0.958241
+	Number of samples: 699442
+	Variance: 0.149098
+	Standard deviation: 0.386133
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.00727696
+	Confidence interval 1: (0.00707763,0.00747629) with coverage: 0.95
+	Confidence interval 2: (0.00529151,0.00926241) with coverage: 0.999998
+	Number of samples: 1395363
+	Variance: 0.00722401
+	Standard deviation: 0.0849942
+	Maximum sample: 1
+	Minimum sample: 0
+

@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.145543
+	Confidence interval 1: (0.144725,0.146362) with coverage: 0.95
+	Confidence interval 2: (0.143834,0.147252) with coverage: 0.99988
+	Number of samples: 1673391
+	Variance: 0.124361
+	Standard deviation: 0.352648
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0332295
+	Confidence interval 1: (0.032866,0.0335929) with coverage: 0.95
+	Confidence interval 2: (0.0312959,0.035163) with coverage: 0.999998
+	Number of samples: 3347873
+	Variance: 0.0321253
+	Standard deviation: 0.179235
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.0643386
+	Confidence interval 1: (0.0636247,0.0650525) with coverage: 0.95
+	Confidence interval 2: (0.0624673,0.0662099) with coverage: 0.999997
+	Number of samples: 1674998
+	Variance: 0.0601992
+	Standard deviation: 0.245355
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.0380556
+	Confidence interval 1: (0.0376403,0.0384709) with coverage: 0.95
+	Confidence interval 2: (0.0361317,0.0399795) with coverage: 0.999998
+	Number of samples: 1673579
+	Variance: 0.0366074
+	Standard deviation: 0.191331
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.267598
+	Confidence interval 1: (0.266256,0.26894) with coverage: 0.95
+	Confidence interval 2: (0.266133,0.269063) with coverage: 0.966711
+	Number of samples: 837099
+	Variance: 0.19599
+	Standard deviation: 0.442707
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0239418
+	Confidence interval 1: (0.0235809,0.0243027) with coverage: 0.95
+	Confidence interval 2: (0.0219897,0.0258939) with coverage: 0.999998
+	Number of samples: 1671845
+	Variance: 0.0233686
+	Standard deviation: 0.152868
+	Maximum sample: 1
+	Minimum sample: 0
+

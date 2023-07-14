@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.145127
+	Confidence interval 1: (0.144106,0.146148) with coverage: 0.95
+	Confidence interval 2: (0.143417,0.146837) with coverage: 0.998582
+	Number of samples: 1472716
+	Variance: 0.124065
+	Standard deviation: 0.352229
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.033347
+	Confidence interval 1: (0.0329698,0.0337243) with coverage: 0.95
+	Confidence interval 2: (0.0314137,0.0352804) with coverage: 0.999998
+	Number of samples: 2945838
+	Variance: 0.032235
+	Standard deviation: 0.179541
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.0648387
+	Confidence interval 1: (0.0641913,0.0654861) with coverage: 0.95
+	Confidence interval 2: (0.0629684,0.066709) with coverage: 0.999998
+	Number of samples: 1474752
+	Variance: 0.0606347
+	Standard deviation: 0.246241
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.128647
+	Confidence interval 1: (0.127375,0.12992) with coverage: 0.95
+	Confidence interval 2: (0.126905,0.13039) with coverage: 0.993426
+	Number of samples: 1472155
+	Variance: 0.112097
+	Standard deviation: 0.334809
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.268061
+	Confidence interval 1: (0.266665,0.269457) with coverage: 0.95
+	Confidence interval 2: (0.266597,0.269525) with coverage: 0.959679
+	Number of samples: 737280
+	Variance: 0.196205
+	Standard deviation: 0.44295
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0889888
+	Confidence interval 1: (0.0880647,0.0899129) with coverage: 0.95
+	Confidence interval 2: (0.0871668,0.0908108) with coverage: 0.999895
+	Number of samples: 1473039
+	Variance: 0.0810699
+	Standard deviation: 0.284728
+	Maximum sample: 1
+	Minimum sample: 0
+

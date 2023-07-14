@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.162726
+	Confidence interval 1: (0.161937,0.163516) with coverage: 0.95
+	Confidence interval 2: (0.161052,0.164401) with coverage: 0.999906
+	Number of samples: 1824875
+	Variance: 0.136246
+	Standard deviation: 0.369116
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0435384
+	Confidence interval 1: (0.0432042,0.0438726) with coverage: 0.95
+	Confidence interval 2: (0.0416254,0.0454513) with coverage: 0.999998
+	Number of samples: 3647978
+	Variance: 0.0416428
+	Standard deviation: 0.204066
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.0841381
+	Confidence interval 1: (0.083539,0.0847371) with coverage: 0.95
+	Confidence interval 2: (0.0823063,0.0859698) with coverage: 0.999998
+	Number of samples: 1823824
+	Variance: 0.0770589
+	Standard deviation: 0.277595
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.155907
+	Confidence interval 1: (0.155102,0.156712) with coverage: 0.95
+	Confidence interval 2: (0.154219,0.157595) with coverage: 0.999888
+	Number of samples: 1824389
+	Variance: 0.1316
+	Standard deviation: 0.362767
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.298113
+	Confidence interval 1: (0.296786,0.29944) with coverage: 0.95
+	Confidence interval 2: (0.296709,0.299517) with coverage: 0.961233
+	Number of samples: 912483
+	Variance: 0.209242
+	Standard deviation: 0.45743
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.117106
+	Confidence interval 1: (0.11635,0.117862) with coverage: 0.95
+	Confidence interval 2: (0.11534,0.118872) with coverage: 0.999989
+	Number of samples: 1821517
+	Variance: 0.103392
+	Standard deviation: 0.321547
+	Maximum sample: 1
+	Minimum sample: 0
+

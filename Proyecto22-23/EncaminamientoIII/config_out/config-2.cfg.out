@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.235933
+	Confidence interval 1: (0.235359,0.236507) with coverage: 0.95
+	Confidence interval 2: (0.234405,0.237461) with coverage: 0.999998
+	Number of samples: 3005589
+	Variance: 0.180269
+	Standard deviation: 0.424581
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0943851
+	Confidence interval 1: (0.0940695,0.0947007) with coverage: 0.95
+	Confidence interval 2: (0.0925739,0.0961963) with coverage: 0.999998
+	Number of samples: 6010473
+	Variance: 0.0854766
+	Standard deviation: 0.292364
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.17827
+	Confidence interval 1: (0.177755,0.178786) with coverage: 0.95
+	Confidence interval 2: (0.176627,0.179914) with coverage: 0.999998
+	Number of samples: 3007639
+	Variance: 0.14649
+	Standard deviation: 0.38274
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.109048
+	Confidence interval 1: (0.10854,0.109555) with coverage: 0.95
+	Confidence interval 2: (0.107266,0.110829) with coverage: 0.999998
+	Number of samples: 3004414
+	Variance: 0.0971562
+	Standard deviation: 0.311699
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.414851
+	Confidence interval 1: (0.413744,0.415958) with coverage: 0.95
+	Confidence interval 2: (0.413681,0.416021) with coverage: 0.961053
+	Number of samples: 1503800
+	Variance: 0.24275
+	Standard deviation: 0.492696
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0877261
+	Confidence interval 1: (0.0872703,0.0881818) with coverage: 0.95
+	Confidence interval 2: (0.0859015,0.0895506) with coverage: 0.999998
+	Number of samples: 3003372
+	Variance: 0.0800302
+	Standard deviation: 0.282896
+	Maximum sample: 1
+	Minimum sample: 0
+

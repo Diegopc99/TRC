@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.0340925
+	Confidence interval 1: (0.0331228,0.0350623) with coverage: 0.95
+	Confidence interval 2: (0.0321607,0.0360244) with coverage: 0.999963
+	Number of samples: 339341
+	Variance: 0.0329303
+	Standard deviation: 0.181467
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.000998181
+	Confidence interval 1: (0.000875393,0.00112097) with coverage: 0.95
+	Confidence interval 2: (-0.000999823,0.00299618) with coverage: 0.999998
+	Number of samples: 677232
+	Variance: 0.000997186
+	Standard deviation: 0.0315783
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.00181779
+	Confidence interval 1: (0.00158677,0.00204881) with coverage: 0.95
+	Confidence interval 2: (-0.000178574,0.00381416) with coverage: 0.999998
+	Number of samples: 339423
+	Variance: 0.00181449
+	Standard deviation: 0.0425969
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.0105753
+	Confidence interval 1: (0.010089,0.0110615) with coverage: 0.95
+	Confidence interval 2: (0.00859641,0.0125541) with coverage: 0.999998
+	Number of samples: 338715
+	Variance: 0.0104635
+	Standard deviation: 0.102291
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.0670405
+	Confidence interval 1: (0.0652973,0.0687836) with coverage: 0.95
+	Confidence interval 2: (0.0651746,0.0689064) with coverage: 0.963978
+	Number of samples: 169062
+	Variance: 0.0625464
+	Standard deviation: 0.250093
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0019609
+	Confidence interval 1: (0.00174183,0.00217997) with coverage: 0.95
+	Confidence interval 2: (-3.51782e-05,0.00395698) with coverage: 0.999998
+	Number of samples: 338620
+	Variance: 0.00195706
+	Standard deviation: 0.0442387
+	Maximum sample: 1
+	Minimum sample: 0
+

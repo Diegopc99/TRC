@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.0107987
+	Confidence interval 1: (0.00996879,0.0116286) with coverage: 0.95
+	Confidence interval 2: (0.0088203,0.0127771) with coverage: 0.999997
+	Number of samples: 168261
+	Variance: 0.0106822
+	Standard deviation: 0.103354
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 8.34419e-05
+	Confidence interval 1: (4.13212e-05,0.000125562) with coverage: 0.95
+	Confidence interval 2: (-0.00191639,0.00208328) with coverage: 0.999998
+	Number of samples: 335563
+	Variance: 8.34351e-05
+	Standard deviation: 0.00913428
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.000208302
+	Confidence interval 1: (9.71646e-05,0.00031944) with coverage: 0.95
+	Confidence interval 2: (-0.00179128,0.00220789) with coverage: 0.999998
+	Number of samples: 168025
+	Variance: 0.00020826
+	Standard deviation: 0.0144312
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.000266804
+	Confidence interval 1: (0.00015193,0.000381679) with coverage: 0.95
+	Confidence interval 2: (-0.00173266,0.00226627) with coverage: 0.999998
+	Number of samples: 168663
+	Variance: 0.000266735
+	Standard deviation: 0.016332
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.0228641
+	Confidence interval 1: (0.021072,0.0246562) with coverage: 0.95
+	Confidence interval 2: (0.0209098,0.0248184) with coverage: 0.966351
+	Number of samples: 83712
+	Variance: 0.0223416
+	Standard deviation: 0.149471
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 5.94015e-06
+	Confidence interval 1: (-6.40849e-06,1.82888e-05) with coverage: 0.95
+	Confidence interval 2: (-0.00199405,0.00200593) with coverage: 0.999998
+	Number of samples: 168346
+	Variance: 5.94015e-06
+	Standard deviation: 0.00243724
+	Maximum sample: 1
+	Minimum sample: 0
+

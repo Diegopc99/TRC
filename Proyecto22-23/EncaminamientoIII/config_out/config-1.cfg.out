@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.214581
+	Confidence interval 1: (0.213797,0.215366) with coverage: 0.95
+	Confidence interval 2: (0.21301,0.216152) with coverage: 0.999955
+	Number of samples: 3602459
+	Variance: 0.168536
+	Standard deviation: 0.410532
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0778567
+	Confidence interval 1: (0.0775872,0.0781262) with coverage: 0.95
+	Confidence interval 2: (0.0760124,0.079701) with coverage: 0.999998
+	Number of samples: 7205597
+	Variance: 0.071795
+	Standard deviation: 0.267946
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.148073
+	Confidence interval 1: (0.147638,0.148507) with coverage: 0.95
+	Confidence interval 2: (0.146369,0.149777) with coverage: 0.999998
+	Number of samples: 3604169
+	Variance: 0.126147
+	Standard deviation: 0.355172
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.0893526
+	Confidence interval 1: (0.0888455,0.0898596) with coverage: 0.95
+	Confidence interval 2: (0.0875313,0.0911738) with coverage: 0.999998
+	Number of samples: 3604206
+	Variance: 0.0813687
+	Standard deviation: 0.285252
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.382027
+	Confidence interval 1: (0.380886,0.383168) with coverage: 0.95
+	Confidence interval 2: (0.380791,0.383263) with coverage: 0.965431
+	Number of samples: 1802240
+	Variance: 0.236083
+	Standard deviation: 0.485883
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0691006
+	Confidence interval 1: (0.0687244,0.0694769) with coverage: 0.95
+	Confidence interval 2: (0.0672388,0.0709624) with coverage: 0.999998
+	Number of samples: 3602123
+	Variance: 0.0643258
+	Standard deviation: 0.253625
+	Maximum sample: 1
+	Minimum sample: 0
+

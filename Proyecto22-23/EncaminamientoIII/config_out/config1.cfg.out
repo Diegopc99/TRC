@@ -1,0 +1,63 @@
+Semilla: 25
+Tolerancia relativa: 0.002
+
+Trafico/s promediado/s en a:
+Probabilidad de bloqueo estimada: 0.169264
+	Confidence interval 1: (0.168546,0.169983) with coverage: 0.95
+	Confidence interval 2: (0.167603,0.170926) with coverage: 0.999984
+	Number of samples: 2949580
+	Variance: 0.140614
+	Standard deviation: 0.374985
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en b:
+Probabilidad de bloqueo estimada: 0.0466525
+	Confidence interval 1: (0.0462783,0.0470267) with coverage: 0.95
+	Confidence interval 2: (0.0447458,0.0485592) with coverage: 0.999998
+	Number of samples: 5895463
+	Variance: 0.044476
+	Standard deviation: 0.210893
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en c:
+Probabilidad de bloqueo estimada: 0.0903192
+	Confidence interval 1: (0.0897733,0.090865) with coverage: 0.95
+	Confidence interval 2: (0.0884998,0.0921385) with coverage: 0.999998
+	Number of samples: 2949485
+	Variance: 0.0821616
+	Standard deviation: 0.286639
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en d:
+Probabilidad de bloqueo estimada: 0.0533171
+	Confidence interval 1: (0.0528869,0.0537472) with coverage: 0.95
+	Confidence interval 2: (0.0514237,0.0552104) with coverage: 0.999998
+	Number of samples: 2948137
+	Variance: 0.0504744
+	Standard deviation: 0.224665
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en e:
+Probabilidad de bloqueo estimada: 0.308089
+	Confidence interval 1: (0.306898,0.309279) with coverage: 0.95
+	Confidence interval 2: (0.306705,0.309472) with coverage: 0.976029
+	Number of samples: 1474560
+	Variance: 0.21317
+	Standard deviation: 0.461704
+	Maximum sample: 1
+	Minimum sample: 0
+
+Trafico/s promediado/s en f:
+Probabilidad de bloqueo estimada: 0.0363379
+	Confidence interval 1: (0.0359553,0.0367205) with coverage: 0.95
+	Confidence interval 2: (0.0344106,0.0382652) with coverage: 0.999998
+	Number of samples: 2944805
+	Variance: 0.0350175
+	Standard deviation: 0.18713
+	Maximum sample: 1
+	Minimum sample: 0
+

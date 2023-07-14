@@ -1,0 +1,112 @@
+{
+    "a": {
+        "Probabilidad de bloqueo": 0.00786483,
+        "Confidence interval 1": [
+            0.00773392,
+            0.00799573
+        ],
+        "Confidence interval 2": [
+            0.00588055,
+            0.0098491
+        ]
+    },
+    "b": {
+        "Probabilidad de bloqueo": 9.20626e-05,
+        "Confidence interval 1": [
+            7.79853e-05,
+            0.00010614
+        ],
+        "Confidence interval 2": [
+            -0.00190775,
+            0.00209188
+        ]
+    },
+    "c": {
+        "Probabilidad de bloqueo": 0.385377,
+        "Confidence interval 1": [
+            0.384657,
+            0.386096
+        ],
+        "Confidence interval 2": [
+            0.384148,
+            0.386606
+        ]
+    },
+    "d": {
+        "Probabilidad de bloqueo": 0.0590127,
+        "Confidence interval 1": [
+            0.0583959,
+            0.0596295
+        ],
+        "Confidence interval 2": [
+            0.0571307,
+            0.0608947
+        ]
+    },
+    "e": {
+        "Probabilidad de bloqueo": 0.00018734,
+        "Confidence interval 1": [
+            0.000162135,
+            0.000212546
+        ],
+        "Confidence interval 2": [
+            -0.00181229,
+            0.00218697
+        ]
+    },
+    "f": {
+        "Probabilidad de bloqueo": 0.0156076,
+        "Confidence interval 1": [
+            0.0153035,
+            0.0159117
+        ],
+        "Confidence interval 2": [
+            0.0136388,
+            0.0175764
+        ]
+    },
+    "g": {
+        "Probabilidad de bloqueo": 0.621863,
+        "Confidence interval 1": [
+            0.62114,
+            0.622585
+        ],
+        "Confidence interval 2": [
+            0.621106,
+            0.622619
+        ]
+    },
+    "h": {
+        "Probabilidad de bloqueo": 0.113131,
+        "Confidence interval 1": [
+            0.111924,
+            0.114338
+        ],
+        "Confidence interval 2": [
+            0.111357,
+            0.114905
+        ]
+    },
+    "i": {
+        "Probabilidad de bloqueo": 0.390096,
+        "Confidence interval 1": [
+            0.38949,
+            0.390703
+        ],
+        "Confidence interval 2": [
+            0.388876,
+            0.391316
+        ]
+    },
+    "j": {
+        "Probabilidad de bloqueo": 0.420875,
+        "Confidence interval 1": [
+            0.420212,
+            0.421537
+        ],
+        "Confidence interval 2": [
+            0.419716,
+            0.422033
+        ]
+    }
+}
